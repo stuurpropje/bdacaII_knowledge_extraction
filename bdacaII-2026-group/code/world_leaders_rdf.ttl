@@ -1,0 +1,1766 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://worldleaders.org/data/> .
+@prefix wl: <http://worldleaders.org/ontology#> .
+
+wd:Abdel_Fattah_el_Sisi a wl:Person ;
+    rdfs:label "Abdel Fattah el-Sisi"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Egypt .
+
+wd:Abdelmadjid_Tebboune a wl:Person ;
+    rdfs:label "Abdelmadjid Tebboune"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Algeria .
+
+wd:Abdirahman_Mohamed_Abdullahi a wl:Person ;
+    rdfs:label "Abdirahman Mohamed Abdullahi"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Somaliland .
+
+wd:Abdul_Hamid_Dbeibeh a wl:Person ;
+    rdfs:label "Abdul Hamid Dbeibeh"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Libya .
+
+wd:Abdullah_II a wl:Person ;
+    rdfs:label "Abdullah II"@en ;
+    wl:holds_position wd:King ;
+    wl:leads wd:Jordan .
+
+wd:Abiy_Ahmed a wl:Person ;
+    rdfs:label "Abiy Ahmed"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Ethiopia .
+
+wd:Adama_Barrow a wl:Person ;
+    rdfs:label "Adama Barrow"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Gambia .
+
+wd:Ahmed_al_Sharaa a wl:Person ;
+    rdfs:label "Ahmed al-Sharaa"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Syria .
+
+wd:Alan_Gagloyev a wl:Person ;
+    rdfs:label "Alan Gagloyev"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:South_Ossetia .
+
+wd:Alassane_Ouattara a wl:Person ;
+    rdfs:label "Alassane Ouattara"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Ivory_Coast .
+
+wd:Albert_II a wl:Person ;
+    rdfs:label "Albert II"@en ;
+    wl:holds_position wd:Sovereign_Prince ;
+    wl:leads wd:Monaco .
+
+wd:Albin_Kurti a wl:Person ;
+    rdfs:label "Albin Kurti"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Kosovo .
+
+wd:Aleksandar_Vučić a wl:Person ;
+    rdfs:label "Aleksandar Vučić"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Serbia .
+
+wd:Alexander_Lukashenko a wl:Person ;
+    rdfs:label "Alexander Lukashenko"@en ;
+    wl:holds_position wd:Chairman ;
+    wl:leads wd:All_Belarusian_People_s_Assembly .
+
+wd:Alexandru_Munteanu a wl:Person ;
+    rdfs:label "Alexandru Munteanu"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Moldova .
+
+wd:Ali_Khamenei a wl:Person ;
+    rdfs:label "Ali Khamenei"@en ;
+    wl:holds_position wd:Supreme_Leader ;
+    wl:leads wd:Iran .
+
+wd:Alix_Didier_Fils_Aimé a wl:Person ;
+    rdfs:label "Alix Didier Fils-Aimé"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Haiti .
+
+wd:Alois a wl:Person ;
+    rdfs:label "Alois"@en ;
+    wl:holds_position wd:Regent ;
+    wl:leads wd:Liechtenstein .
+
+wd:Américo_Ramos a wl:Person ;
+    rdfs:label "Américo Ramos"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:São_Tomé_and_Príncipe .
+
+wd:Andrej_Babiš a wl:Person ;
+    rdfs:label "Andrej Babiš"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Czech_Republic .
+
+wd:Andrej_Plenković a wl:Person ;
+    rdfs:label "Andrej Plenković"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Croatia .
+
+wd:Andrew_Holness a wl:Person ;
+    rdfs:label "Andrew Holness"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Jamaica .
+
+wd:Andrey_Gyurov a wl:Person ;
+    rdfs:label "Andrey Gyurov"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Bulgaria .
+
+wd:Anthony_Albanese a wl:Person ;
+    rdfs:label "Anthony Albanese"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Australia .
+
+wd:Anura_Kumara_Dissanayake a wl:Person ;
+    rdfs:label "Anura Kumara Dissanayake"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Sri_Lanka .
+
+wd:Anutin_Charnvirakul a wl:Person ;
+    rdfs:label "Anutin Charnvirakul"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Thailand .
+
+wd:Anwar_Ibrahim a wl:Person ;
+    rdfs:label "Anwar Ibrahim"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Malaysia .
+
+wd:Assimi_Goïta a wl:Person ;
+    rdfs:label "Assimi Goïta"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Mali .
+
+wd:Azali_Assoumani a wl:Person ;
+    rdfs:label "Azali Assoumani"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Comoros .
+
+wd:Badra_Gunba a wl:Person ;
+    rdfs:label "Badra Gunba"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Abkhazia .
+
+wd:Bart_De_Wever a wl:Person ;
+    rdfs:label "Bart De Wever"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Belgium .
+
+wd:Bassirou_Diomaye_Faye a wl:Person ;
+    rdfs:label "Bassirou Diomaye Faye"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Senegal .
+
+wd:Benjamin_Netanyahu a wl:Person ;
+    rdfs:label "Benjamin Netanyahu"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Israel .
+
+wd:Bernardo_Arévalo a wl:Person ;
+    rdfs:label "Bernardo Arévalo"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Guatemala .
+
+wd:Bob_Dadae a wl:Person ;
+    rdfs:label "Bob Dadae"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Papua_New_Guinea .
+
+wd:Bola_Tinubu a wl:Person ;
+    rdfs:label "Bola Tinubu"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Nigeria .
+
+wd:Bongbong_Marcos a wl:Person ;
+    rdfs:label "Bongbong Marcos"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Philippines .
+
+wd:Brice_Oligui_Nguema a wl:Person ;
+    rdfs:label "Brice Oligui Nguema"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Gabon .
+
+wd:Christian_Schmidt a wl:Person ;
+    rdfs:label "Christian Schmidt"@en ;
+    wl:holds_position wd:High_Representative ;
+    wl:leads wd:Bosnia_and_Herzegovina .
+
+wd:Christian_Stocker a wl:Person ;
+    rdfs:label "Christian Stocker"@en ;
+    wl:holds_position wd:Chancellor ;
+    wl:leads wd:Austria .
+
+wd:Christopher_Luxon a wl:Person ;
+    rdfs:label "Christopher Luxon"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:New_Zealand .
+
+wd:Cindy_Kiro a wl:Person ;
+    rdfs:label "Cindy Kiro"@en ;
+    wl:holds_position wd:Governor_General,
+        wd:King_s_Representative ;
+    wl:leads wd:New_Zealand .
+
+wd:Claudia_Sheinbaum a wl:Person ;
+    rdfs:label "Claudia Sheinbaum"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Mexico .
+
+wd:Cynthia_A__Pratt a wl:Person ;
+    rdfs:label "Cynthia A. Pratt"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Bahamas .
+
+wd:Cyril_Ramaphosa a wl:Person ;
+    rdfs:label "Cyril Ramaphosa"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:South_Africa .
+
+wd:Cécile_La_Grenade a wl:Person ;
+    rdfs:label "Cécile La Grenade"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Grenada .
+
+wd:Dalton_Tagelagi a wl:Person ;
+    rdfs:label "Dalton Tagelagi"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Niue .
+
+wd:Daniel_Chapo a wl:Person ;
+    rdfs:label "Daniel Chapo"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Mozambique .
+
+wd:Daniel_Noboa a wl:Person ;
+    rdfs:label "Daniel Noboa"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Ecuador .
+
+wd:Daniel_Ortega a wl:Person ;
+    rdfs:label "Daniel Ortega"@en ;
+    wl:holds_position wd:Co_Presidents ;
+    wl:leads wd:Nicaragua .
+
+wd:David_Adeang a wl:Person ;
+    rdfs:label "David Adeang"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Nauru .
+
+wd:David_Tiva_Kapu a wl:Person ;
+    rdfs:label "David Tiva Kapu"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Solomon_Islands .
+
+wd:Denis_Sassou_Nguesso a wl:Person ;
+    rdfs:label "Denis Sassou Nguesso"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Republic_of_the_Congo .
+
+wd:Dick_Schoof a wl:Person ;
+    rdfs:label "Dick Schoof"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Netherlands .
+
+wd:Dickon_Mitchell a wl:Person ;
+    rdfs:label "Dickon Mitchell"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Grenada .
+
+wd:Donald_Trump a wl:Person ;
+    rdfs:label "Donald Trump"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:United_States .
+
+wd:Donald_Tusk a wl:Person ;
+    rdfs:label "Donald Tusk"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Poland .
+
+wd:Duma_Boko a wl:Person ;
+    rdfs:label "Duma Boko"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Botswana .
+
+wd:Edi_Rama a wl:Person ;
+    rdfs:label "Edi Rama"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Albania .
+
+wd:Emmanuel_Macron a wl:Person ;
+    rdfs:label "Emmanuel Macron"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:France .
+
+wd:Emmerson_Mnangagwa a wl:Person ;
+    rdfs:label "Emmerson Mnangagwa"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Zimbabwe .
+
+wd:Emomali_Rahmon a wl:Person ;
+    rdfs:label "Emomali Rahmon"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Tajikistan .
+
+wd:Errol_Charles a wl:Person ;
+    rdfs:label "Errol Charles"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Saint_Lucia .
+
+wd:Evika_Siliņa a wl:Person ;
+    rdfs:label "Evika Siliņa"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Latvia .
+
+wd:Fatafehi_Fakafānua a wl:Person ;
+    rdfs:label "Fatafehi Fakafānua"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Tonga .
+
+wd:Faure_Gnassingbé a wl:Person ;
+    rdfs:label "Faure Gnassingbé"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Togo .
+
+wd:Faustin_Archange_Touadéra a wl:Person ;
+    rdfs:label "Faustin-Archange Touadéra"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Central_African_Republic .
+
+wd:Feleti_Teo a wl:Person ;
+    rdfs:label "Feleti Teo"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Tuvalu .
+
+wd:Friedrich_Merz a wl:Person ;
+    rdfs:label "Friedrich Merz"@en ;
+    wl:holds_position wd:Chancellor ;
+    wl:leads wd:Germany .
+
+wd:Froyla_Tzalam a wl:Person ;
+    rdfs:label "Froyla Tzalam"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Belize .
+
+wd:Félix_Tshisekedi a wl:Person ;
+    rdfs:label "Félix Tshisekedi"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Democratic_Republic_of_the_Congo .
+
+wd:Gabriel_Boric a wl:Person ;
+    rdfs:label "Gabriel Boric"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Chile .
+
+wd:Gaston_Browne a wl:Person ;
+    rdfs:label "Gaston Browne"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Antigua_and_Barbuda .
+
+wd:Giorgia_Meloni a wl:Person ;
+    rdfs:label "Giorgia Meloni"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Italy .
+
+wd:Godwin_Friday a wl:Person ;
+    rdfs:label "Godwin Friday"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Saint_Vincent_and_the_Grenadines .
+
+wd:Gombojavyn_Zandanshatar a wl:Person ;
+    rdfs:label "Gombojavyn Zandanshatar"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Mongolia .
+
+wd:Gustavo_Petro a wl:Person ;
+    rdfs:label "Gustavo Petro"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Colombia .
+
+wd:Haitham_bin_Tariq a wl:Person ;
+    rdfs:label "Haitham bin Tariq"@en ;
+    wl:holds_position wd:Sultan_and_Prime_Minister ;
+    wl:leads wd:Oman .
+
+wd:Hakainde_Hichilema a wl:Person ;
+    rdfs:label "Hakainde Hichilema"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Zambia .
+
+wd:Hamad_bin_Isa_Al_Khalifa a wl:Person ;
+    rdfs:label "Hamad bin Isa Al Khalifa"@en ;
+    wl:holds_position wd:King ;
+    wl:leads wd:Bahrain .
+
+wd:Hamza_Abdi_Barre a wl:Person ;
+    rdfs:label "Hamza Abdi Barre"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Somalia .
+
+wd:Hans_Adam_II a wl:Person ;
+    rdfs:label "Hans-Adam II"@en ;
+    wl:holds_position wd:Prince_Regnant ;
+    wl:leads wd:Liechtenstein .
+
+wd:Hassan_Sheikh_Mohamud a wl:Person ;
+    rdfs:label "Hassan Sheikh Mohamud"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Somalia .
+
+wd:Hibatullah_Akhundzada a wl:Person ;
+    rdfs:label "Hibatullah Akhundzada"@en ;
+    wl:holds_position wd:Supreme_Leader ;
+    wl:leads wd:Afghanistan .
+
+wd:Hilda_Heine a wl:Person ;
+    rdfs:label "Hilda Heine"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Marshall_Islands .
+
+wd:Hristijan_Mickoski a wl:Person ;
+    rdfs:label "Hristijan Mickoski"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:North_Macedonia .
+
+wd:Hun_Manet a wl:Person ;
+    rdfs:label "Hun Manet"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Cambodia .
+
+wd:Ilham_Aliyev a wl:Person ;
+    rdfs:label "Ilham Aliyev"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Azerbaijan .
+
+wd:Ilie_Bolojan a wl:Person ;
+    rdfs:label "Ilie Bolojan"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Romania .
+
+wd:Inga_Ruginienė a wl:Person ;
+    rdfs:label "Inga Ruginienė"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Lithuania .
+
+wd:Irakli_Kobakhidze a wl:Person ;
+    rdfs:label "Irakli Kobakhidze"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Georgia .
+
+wd:Irfaan_Ali a wl:Person ;
+    rdfs:label "Irfaan Ali"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Guyana .
+
+wd:Isaias_Afwerki a wl:Person ;
+    rdfs:label "Isaias Afwerki"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Eritrea .
+
+wd:Ismaïl_Omar_Guelleh a wl:Person ;
+    rdfs:label "Ismaïl Omar Guelleh"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Djibouti .
+
+wd:James_Marape a wl:Person ;
+    rdfs:label "James Marape"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Papua_New_Guinea .
+
+wd:Javier_Milei a wl:Person ;
+    rdfs:label "Javier Milei"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Argentina .
+
+wd:Jean_Emmanuel_Ouédraogo a wl:Person ;
+    rdfs:label "Jean Emmanuel Ouédraogo"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Burkina_Faso .
+
+wd:Jennifer_Geerlings_Simons a wl:Person ;
+    rdfs:label "Jennifer Geerlings-Simons"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Suriname .
+
+wd:Jeremiah_Manele a wl:Person ;
+    rdfs:label "Jeremiah Manele"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Solomon_Islands .
+
+wd:John_Mahama a wl:Person ;
+    rdfs:label "John Mahama"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Ghana .
+
+wd:Johnny_Briceño a wl:Person ;
+    rdfs:label "Johnny Briceño"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Belize .
+
+wd:Jonas_Gahr_Støre a wl:Person ;
+    rdfs:label "Jonas Gahr Støre"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Norway .
+
+wd:Joseph_Boakai a wl:Person ;
+    rdfs:label "Joseph Boakai"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Liberia .
+
+wd:José_María_Balcázar a wl:Person ;
+    rdfs:label "José María Balcázar"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Peru .
+
+wd:José_Raúl_Mulino a wl:Person ;
+    rdfs:label "José Raúl Mulino"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Panama .
+
+wd:Jotham_Napat a wl:Person ;
+    rdfs:label "Jotham Napat"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Vanuatu .
+
+wd:João_Lourenço a wl:Person ;
+    rdfs:label "João Lourenço"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Angola .
+
+wd:Julius_Maada_Bio a wl:Person ;
+    rdfs:label "Julius Maada Bio"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Sierra_Leone .
+
+wd:Kamla_Persad_Bissessar a wl:Person ;
+    rdfs:label "Kamla Persad-Bissessar"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Trinidad_and_Tobago .
+
+wd:Kassym_Jomart_Tokayev a wl:Person ;
+    rdfs:label "Kassym-Jomart Tokayev"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Kazakhstan .
+
+wd:Kaïs_Saïed a wl:Person ;
+    rdfs:label "Kaïs Saïed"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Tunisia .
+
+wd:Keir_Starmer a wl:Person ;
+    rdfs:label "Keir Starmer"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:United_Kingdom .
+
+wd:Kristen_Michal a wl:Person ;
+    rdfs:label "Kristen Michal"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Estonia .
+
+wd:Kristrún_Frostadóttir a wl:Person ;
+    rdfs:label "Kristrún Frostadóttir"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Iceland .
+
+wd:Kyriakos_Mitsotakis a wl:Person ;
+    rdfs:label "Kyriakos Mitsotakis"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Greece .
+
+wd:Lai_Ching_te a wl:Person ;
+    rdfs:label "Lai Ching-te"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Republic_of_China .
+
+wd:Lawrence_Wong a wl:Person ;
+    rdfs:label "Lawrence Wong"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Singapore .
+
+wd:Laʻauli_Leuatea_Schmidt a wl:Person ;
+    rdfs:label "Laʻauli Leuatea Schmidt"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Samoa .
+
+wd:Lee_Jae_Myung a wl:Person ;
+    rdfs:label "Lee Jae Myung"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:South_Korea .
+
+wd:Leo_XIV a wl:Person ;
+    rdfs:label "Leo XIV"@en ;
+    wl:holds_position wd:Pope ;
+    wl:leads wd:sovereigns_of_Vatican_City_State .
+
+wd:Luc_Frieden a wl:Person ;
+    rdfs:label "Luc Frieden"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Luxembourg .
+
+wd:Luca_Beccari a wl:Person ;
+    rdfs:label "Luca Beccari"@en ;
+    wl:holds_position wd:Secretary_for_Foreign_and_Political_Affairs ;
+    wl:leads wd:State_for_Foreign_and_Political_Affairs .
+
+wd:Luis_Abinader a wl:Person ;
+    rdfs:label "Luis Abinader"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Dominican_Republic .
+
+wd:Luiz_Inácio_Lula_da_Silva a wl:Person ;
+    rdfs:label "Luiz Inácio Lula da Silva"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Brazil .
+
+wd:Luís_Montenegro a wl:Person ;
+    rdfs:label "Luís Montenegro"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Portugal .
+
+wd:Mahamat_Déby a wl:Person ;
+    rdfs:label "Mahamat Déby"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Chad .
+
+wd:Mahdi_al_Mashat a wl:Person ;
+    rdfs:label "Mahdi al-Mashat"@en ;
+    wl:holds_position wd:Chairman ;
+    wl:leads wd:Yemen .
+
+wd:Mahmoud_Abbas a wl:Person ;
+    rdfs:label "Mahmoud Abbas"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Palestine .
+
+wd:Maia_Sandu a wl:Person ;
+    rdfs:label "Maia Sandu"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Moldova .
+
+wd:Marcella_Liburd a wl:Person ;
+    rdfs:label "Marcella Liburd"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Saint_Kitts_and_Nevis .
+
+wd:Mark_Brown a wl:Person ;
+    rdfs:label "Mark Brown"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Cook_Islands .
+
+wd:Mark_Carney a wl:Person ;
+    rdfs:label "Mark Carney"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Canada .
+
+wd:Mary_Simon a wl:Person ;
+    rdfs:label "Mary Simon"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Canada .
+
+wd:Mette_Frederiksen a wl:Person ;
+    rdfs:label "Mette Frederiksen"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Denmark .
+
+wd:Mia_Mottley a wl:Person ;
+    rdfs:label "Mia Mottley"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Barbados .
+
+wd:Michael_Randrianirina a wl:Person ;
+    rdfs:label "Michael Randrianirina"@en ;
+    wl:holds_position wd:Council_of_the_Presidency_for_the_Re_Foundation_of_the_Republic ;
+    wl:leads wd:Presidency_for_the_Re_Foundation_of_the_Republic_of_Madagascar .
+
+wd:Micheál_Martin a wl:Person ;
+    rdfs:label "Micheál Martin"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Ireland .
+
+wd:Milojko_Spajić a wl:Person ;
+    rdfs:label "Milojko Spajić"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Montenegro .
+
+wd:Min_Aung_Hlaing a wl:Person ;
+    rdfs:label "Min Aung Hlaing"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Myanmar .
+
+wd:Mishal_Al_Ahmad_Al_Jaber_Al_Sabah a wl:Person ;
+    rdfs:label "Mishal Al-Ahmad Al-Jaber Al-Sabah"@en ;
+    wl:holds_position wd:Emir ;
+    wl:leads wd:Kuwait .
+
+wd:Mohamed_Muizzu a wl:Person ;
+    rdfs:label "Mohamed Muizzu"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Maldives .
+
+wd:Mohamed_Ould_Ghazouani a wl:Person ;
+    rdfs:label "Mohamed Ould Ghazouani"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Mauritania .
+
+wd:Mohamed_bin_Zayed_Al_Nahyan a wl:Person ;
+    rdfs:label "Mohamed bin Zayed Al Nahyan"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:United_Arab_Emirates .
+
+wd:Mohammed_Shia__al_Sudani a wl:Person ;
+    rdfs:label "Mohammed Shia' al-Sudani"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Iraq .
+
+wd:Mohammed_VI a wl:Person ;
+    rdfs:label "Mohammed VI"@en ;
+    wl:holds_position wd:King ;
+    wl:leads wd:Morocco .
+
+wd:Mohammed_bin_Salman a wl:Person ;
+    rdfs:label "Mohammed bin Salman"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Saudi_Arabia .
+
+wd:Mswati_III a wl:Person ;
+    rdfs:label "Mswati III"@en ;
+    wl:holds_position wd:King ;
+    wl:leads wd:Eswatini .
+
+wd:Narendra_Modi a wl:Person ;
+    rdfs:label "Narendra Modi"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:India .
+
+wd:Nasry_Asfura a wl:Person ;
+    rdfs:label "Nasry Asfura"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Honduras .
+
+wd:Navin_Ramgoolam a wl:Person ;
+    rdfs:label "Navin Ramgoolam"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Mauritius .
+
+wd:Nawaf_Salam a wl:Person ;
+    rdfs:label "Nawaf Salam"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Lebanon .
+
+wd:Nayib_Bukele a wl:Person ;
+    rdfs:label "Nayib Bukele"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:El_Salvador .
+
+wd:Netumbo_Nandi_Ndaitwah a wl:Person ;
+    rdfs:label "Netumbo Nandi-Ndaitwah"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Namibia .
+
+wd:Nikol_Pashinyan a wl:Person ;
+    rdfs:label "Nikol Pashinyan"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Armenia .
+
+wd:Nikos_Christodoulides a wl:Person ;
+    rdfs:label "Nikos Christodoulides"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Cyprus .
+
+wd:Osama_Hammad a wl:Person ;
+    rdfs:label "Osama Hammad"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Libya .
+
+wd:Patrice_Talon a wl:Person ;
+    rdfs:label "Patrice Talon"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Benin .
+
+wd:Patrick_Allen a wl:Person ;
+    rdfs:label "Patrick Allen"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Jamaica .
+
+wd:Patrick_Herminie a wl:Person ;
+    rdfs:label "Patrick Herminie"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Seychelles .
+
+wd:Paul_Biya a wl:Person ;
+    rdfs:label "Paul Biya"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Cameroon .
+
+wd:Paul_Kagame a wl:Person ;
+    rdfs:label "Paul Kagame"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Rwanda .
+
+wd:Pedro_Sánchez a wl:Person ;
+    rdfs:label "Pedro Sánchez"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Spain .
+
+wd:Peter_Mutharika a wl:Person ;
+    rdfs:label "Peter Mutharika"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Malawi .
+
+wd:Petteri_Orpo a wl:Person ;
+    rdfs:label "Petteri Orpo"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Finland .
+
+wd:Philip_Davis a wl:Person ;
+    rdfs:label "Philip Davis"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Bahamas .
+
+wd:Philip_J__Pierre a wl:Person ;
+    rdfs:label "Philip J. Pierre"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Saint_Lucia .
+
+wd:Prabowo_Subianto a wl:Person ;
+    rdfs:label "Prabowo Subianto"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Indonesia .
+
+wd:Rashad_al_Alimi a wl:Person ;
+    rdfs:label "Rashad al-Alimi"@en ;
+    wl:holds_position wd:Chairman_of_the_Presidential_Leadership_Council ;
+    wl:leads wd:Yemen .
+
+wd:Recep_Tayyip_Erdoğan a wl:Person ;
+    rdfs:label "Recep Tayyip Erdoğan"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Turkey .
+
+wd:Robert_Abela a wl:Person ;
+    rdfs:label "Robert Abela"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Malta .
+
+wd:Robert_Fico a wl:Person ;
+    rdfs:label "Robert Fico"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Slovakia .
+
+wd:Robert_Golob a wl:Person ;
+    rdfs:label "Robert Golob"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Slovenia .
+
+wd:Rodney_Williams a wl:Person ;
+    rdfs:label "Rodney Williams"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Antigua_and_Barbuda .
+
+wd:Rodrigo_Chaves_Robles a wl:Person ;
+    rdfs:label "Rodrigo Chaves Robles"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Costa_Rica .
+
+wd:Rodrigo_Paz a wl:Person ;
+    rdfs:label "Rodrigo Paz"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Bolivia .
+
+wd:Roosevelt_Skerrit a wl:Person ;
+    rdfs:label "Roosevelt Skerrit"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Dominica .
+
+wd:Rosario_Murillo a wl:Person ;
+    rdfs:label "Rosario Murillo"@en ;
+    wl:holds_position wd:Co_Presidents ;
+    wl:leads wd:Nicaragua .
+
+wd:Sadyr_Japarov a wl:Person ;
+    rdfs:label "Sadyr Japarov"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Kyrgyzstan .
+
+wd:Salman a wl:Person ;
+    rdfs:label "Salman"@en ;
+    wl:holds_position wd:King ;
+    wl:leads wd:Saudi_Arabia .
+
+wd:Salva_Kiir_Mayardit a wl:Person ;
+    rdfs:label "Salva Kiir Mayardit"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:South_Sudan .
+
+wd:Sam_Matekane a wl:Person ;
+    rdfs:label "Sam Matekane"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Lesotho .
+
+wd:Sam_Mostyn a wl:Person ;
+    rdfs:label "Sam Mostyn"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Australia .
+
+wd:Samia_Suluhu_Hassan a wl:Person ;
+    rdfs:label "Samia Suluhu Hassan"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Tanzania .
+
+wd:Sanae_Takaichi a wl:Person ;
+    rdfs:label "Sanae Takaichi"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Japan .
+
+wd:Santiago_Peña a wl:Person ;
+    rdfs:label "Santiago Peña"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Paraguay .
+
+wd:Serdar_Berdimuhamedow a wl:Person ;
+    rdfs:label "Serdar Berdimuhamedow"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Turkmenistan .
+
+wd:Shavkat_Mirziyoyev a wl:Person ;
+    rdfs:label "Shavkat Mirziyoyev"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Uzbekistan .
+
+wd:Shehbaz_Sharif a wl:Person ;
+    rdfs:label "Shehbaz Sharif"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Pakistan .
+
+wd:Sitiveni_Rabuka a wl:Person ;
+    rdfs:label "Sitiveni Rabuka"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Fiji .
+
+wd:Stanley_John a wl:Person ;
+    rdfs:label "Stanley John"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Saint_Vincent_and_the_Grenadines .
+
+wd:Surangel_Whipps_Jr a wl:Person ;
+    rdfs:label "Surangel Whipps Jr."@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Palau .
+
+wd:Sushila_Karki a wl:Person ;
+    rdfs:label "Sushila Karki"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Nepal .
+
+wd:Sviatlana_Tsikhanouskaya a wl:Person ;
+    rdfs:label "Sviatlana Tsikhanouskaya"@en ;
+    wl:holds_position wd:Cabinet ;
+    wl:leads wd:Belarus .
+
+wd:Sébastien_Lecornu a wl:Person ;
+    rdfs:label "Sébastien Lecornu"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:France .
+
+wd:Tamim_bin_Hamad_Al_Thani a wl:Person ;
+    rdfs:label "Tamim bin Hamad Al Thani"@en ;
+    wl:holds_position wd:Emir ;
+    wl:leads wd:Qatar .
+
+wd:Taneti_Maamau a wl:Person ;
+    rdfs:label "Taneti Maamau"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Kiribati .
+
+wd:Tarique_Rahman a wl:Person ;
+    rdfs:label "Tarique Rahman"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Bangladesh .
+
+wd:Teodoro_Obiang_Nguema_Mbasogo a wl:Person ;
+    rdfs:label "Teodoro Obiang Nguema Mbasogo"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Equatorial_Guinea .
+
+wd:Terrance_Drew a wl:Person ;
+    rdfs:label "Terrance Drew"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Saint_Kitts_and_Nevis .
+
+wd:Thongloun_Sisoulith a wl:Person ;
+    rdfs:label "Thongloun Sisoulith"@en ;
+    wl:holds_position wd:General_Secretary_of_the_People_s_Revolutionary_Party ;
+    wl:leads wd:Lao_People_s_Revolutionary_Party .
+
+wd:Tofiga_Vaevalu_Falani a wl:Person ;
+    rdfs:label "Tofiga Vaevalu Falani"@en ;
+    wl:holds_position wd:Governor_General ;
+    wl:leads wd:Tuvalu .
+
+wd:Tshering_Tobgay a wl:Person ;
+    rdfs:label "Tshering Tobgay"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Bhutan .
+
+wd:Tufan_Erhürman a wl:Person ;
+    rdfs:label "Tufan Erhürman"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Northern_Cyprus .
+
+wd:Ulf_Kristersson a wl:Person ;
+    rdfs:label "Ulf Kristersson"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Sweden .
+
+wd:Ulisses_Correia_e_Silva a wl:Person ;
+    rdfs:label "Ulisses Correia e Silva"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Cape_Verde .
+
+wd:Ursula_von_der_Leyen a wl:Person ;
+    rdfs:label "Ursula von der Leyen"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:European_Commission .
+
+wd:Vadim_Krasnoselsky a wl:Person ;
+    rdfs:label "Vadim Krasnoselsky"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Transnistria .
+
+wd:Viktor_Orbán a wl:Person ;
+    rdfs:label "Viktor Orbán"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Hungary .
+
+wd:Vladimir_Putin a wl:Person ;
+    rdfs:label "Vladimir Putin"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Russia .
+
+wd:Volodymyr_Zelenskyy a wl:Person ;
+    rdfs:label "Volodymyr Zelenskyy"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Ukraine .
+
+wd:Wesley_Simina a wl:Person ;
+    rdfs:label "Wesley Simina"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Federated_States_of_Micronesia .
+
+wd:William_Ruto a wl:Person ;
+    rdfs:label "William Ruto"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Kenya .
+
+wd:Xanana_Gusmão a wl:Person ;
+    rdfs:label "Xanana Gusmão"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Timor_Leste .
+
+wd:Xavier_Espot a wl:Person ;
+    rdfs:label "Xavier Espot"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Andorra .
+
+wd:Xi_Jinping a wl:Person ;
+    rdfs:label "Xi Jinping"@en ;
+    wl:holds_position wd:Paramount_Leader ;
+    wl:leads wd:China .
+
+wd:Yamandú_Orsi a wl:Person ;
+    rdfs:label "Yamandú Orsi"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Uruguay .
+
+wd:Yoweri_Museveni a wl:Person ;
+    rdfs:label "Yoweri Museveni"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Uganda .
+
+wd:Évariste_Ndayishimiye a wl:Person ;
+    rdfs:label "Évariste Ndayishimiye"@en ;
+    wl:holds_position wd:President ;
+    wl:leads wd:Burundi .
+
+wd:Đuro_Macut a wl:Person ;
+    rdfs:label "Đuro Macut"@en ;
+    wl:holds_position wd:Prime_Minister ;
+    wl:leads wd:Serbia .
+
+wl:holds_position a owl:ObjectProperty .
+
+wl:leads a owl:ObjectProperty .
+
+wd:Abkhazia a wl:Country ;
+    rdfs:label "Abkhazia"@en .
+
+wd:Afghanistan a wl:Country ;
+    rdfs:label "Afghanistan"@en .
+
+wd:Albania a wl:Country ;
+    rdfs:label "Albania"@en .
+
+wd:Algeria a wl:Country ;
+    rdfs:label "Algeria"@en .
+
+wd:All_Belarusian_People_s_Assembly a wl:Country ;
+    rdfs:label "All-Belarusian People's Assembly"@en .
+
+wd:Andorra a wl:Country ;
+    rdfs:label "Andorra"@en .
+
+wd:Angola a wl:Country ;
+    rdfs:label "Angola"@en .
+
+wd:Argentina a wl:Country ;
+    rdfs:label "Argentina"@en .
+
+wd:Armenia a wl:Country ;
+    rdfs:label "Armenia"@en .
+
+wd:Austria a wl:Country ;
+    rdfs:label "Austria"@en .
+
+wd:Azerbaijan a wl:Country ;
+    rdfs:label "Azerbaijan"@en .
+
+wd:Bahrain a wl:Country ;
+    rdfs:label "Bahrain"@en .
+
+wd:Bangladesh a wl:Country ;
+    rdfs:label "Bangladesh"@en .
+
+wd:Barbados a wl:Country ;
+    rdfs:label "Barbados"@en .
+
+wd:Belarus a wl:Country ;
+    rdfs:label "Belarus"@en .
+
+wd:Belgium a wl:Country ;
+    rdfs:label "Belgium"@en .
+
+wd:Benin a wl:Country ;
+    rdfs:label "Benin"@en .
+
+wd:Bhutan a wl:Country ;
+    rdfs:label "Bhutan"@en .
+
+wd:Bolivia a wl:Country ;
+    rdfs:label "Bolivia"@en .
+
+wd:Bosnia_and_Herzegovina a wl:Country ;
+    rdfs:label "Bosnia and Herzegovina"@en .
+
+wd:Botswana a wl:Country ;
+    rdfs:label "Botswana"@en .
+
+wd:Brazil a wl:Country ;
+    rdfs:label "Brazil"@en .
+
+wd:Bulgaria a wl:Country ;
+    rdfs:label "Bulgaria"@en .
+
+wd:Burkina_Faso a wl:Country ;
+    rdfs:label "Burkina Faso"@en .
+
+wd:Burundi a wl:Country ;
+    rdfs:label "Burundi"@en .
+
+wd:Cabinet a wl:Position ;
+    rdfs:label "Cabinet"@en .
+
+wd:Cambodia a wl:Country ;
+    rdfs:label "Cambodia"@en .
+
+wd:Cameroon a wl:Country ;
+    rdfs:label "Cameroon"@en .
+
+wd:Cape_Verde a wl:Country ;
+    rdfs:label "Cape Verde"@en .
+
+wd:Central_African_Republic a wl:Country ;
+    rdfs:label "Central African Republic"@en .
+
+wd:Chad a wl:Country ;
+    rdfs:label "Chad"@en .
+
+wd:Chairman_of_the_Presidential_Leadership_Council a wl:Position ;
+    rdfs:label "Chairman of the Presidential Leadership Council"@en .
+
+wd:Chile a wl:Country ;
+    rdfs:label "Chile"@en .
+
+wd:China a wl:Country ;
+    rdfs:label "China"@en .
+
+wd:Colombia a wl:Country ;
+    rdfs:label "Colombia"@en .
+
+wd:Comoros a wl:Country ;
+    rdfs:label "Comoros"@en .
+
+wd:Cook_Islands a wl:Country ;
+    rdfs:label "Cook Islands"@en .
+
+wd:Costa_Rica a wl:Country ;
+    rdfs:label "Costa Rica"@en .
+
+wd:Council_of_the_Presidency_for_the_Re_Foundation_of_the_Republic a wl:Position ;
+    rdfs:label "Council of the Presidency for the Re-Foundation of the Republic"@en .
+
+wd:Croatia a wl:Country ;
+    rdfs:label "Croatia"@en .
+
+wd:Cyprus a wl:Country ;
+    rdfs:label "Cyprus"@en .
+
+wd:Czech_Republic a wl:Country ;
+    rdfs:label "Czech Republic"@en .
+
+wd:Democratic_Republic_of_the_Congo a wl:Country ;
+    rdfs:label "Democratic Republic of the Congo"@en .
+
+wd:Denmark a wl:Country ;
+    rdfs:label "Denmark"@en .
+
+wd:Djibouti a wl:Country ;
+    rdfs:label "Djibouti"@en .
+
+wd:Dominica a wl:Country ;
+    rdfs:label "Dominica"@en .
+
+wd:Dominican_Republic a wl:Country ;
+    rdfs:label "Dominican Republic"@en .
+
+wd:Ecuador a wl:Country ;
+    rdfs:label "Ecuador"@en .
+
+wd:Egypt a wl:Country ;
+    rdfs:label "Egypt"@en .
+
+wd:El_Salvador a wl:Country ;
+    rdfs:label "El Salvador"@en .
+
+wd:Equatorial_Guinea a wl:Country ;
+    rdfs:label "Equatorial Guinea"@en .
+
+wd:Eritrea a wl:Country ;
+    rdfs:label "Eritrea"@en .
+
+wd:Estonia a wl:Country ;
+    rdfs:label "Estonia"@en .
+
+wd:Eswatini a wl:Country ;
+    rdfs:label "Eswatini"@en .
+
+wd:Ethiopia a wl:Country ;
+    rdfs:label "Ethiopia"@en .
+
+wd:European_Commission a wl:Country ;
+    rdfs:label "European Commission"@en .
+
+wd:Federated_States_of_Micronesia a wl:Country ;
+    rdfs:label "Federated States of Micronesia"@en .
+
+wd:Fiji a wl:Country ;
+    rdfs:label "Fiji"@en .
+
+wd:Finland a wl:Country ;
+    rdfs:label "Finland"@en .
+
+wd:Gabon a wl:Country ;
+    rdfs:label "Gabon"@en .
+
+wd:Gambia a wl:Country ;
+    rdfs:label "Gambia"@en .
+
+wd:General_Secretary_of_the_People_s_Revolutionary_Party a wl:Position ;
+    rdfs:label "General Secretary of the People's Revolutionary Party"@en .
+
+wd:Georgia a wl:Country ;
+    rdfs:label "Georgia"@en .
+
+wd:Germany a wl:Country ;
+    rdfs:label "Germany"@en .
+
+wd:Ghana a wl:Country ;
+    rdfs:label "Ghana"@en .
+
+wd:Greece a wl:Country ;
+    rdfs:label "Greece"@en .
+
+wd:Guatemala a wl:Country ;
+    rdfs:label "Guatemala"@en .
+
+wd:Guyana a wl:Country ;
+    rdfs:label "Guyana"@en .
+
+wd:Haiti a wl:Country ;
+    rdfs:label "Haiti"@en .
+
+wd:High_Representative a wl:Position ;
+    rdfs:label "High Representative"@en .
+
+wd:Honduras a wl:Country ;
+    rdfs:label "Honduras"@en .
+
+wd:Hungary a wl:Country ;
+    rdfs:label "Hungary"@en .
+
+wd:Iceland a wl:Country ;
+    rdfs:label "Iceland"@en .
+
+wd:India a wl:Country ;
+    rdfs:label "India"@en .
+
+wd:Indonesia a wl:Country ;
+    rdfs:label "Indonesia"@en .
+
+wd:Iran a wl:Country ;
+    rdfs:label "Iran"@en .
+
+wd:Iraq a wl:Country ;
+    rdfs:label "Iraq"@en .
+
+wd:Ireland a wl:Country ;
+    rdfs:label "Ireland"@en .
+
+wd:Israel a wl:Country ;
+    rdfs:label "Israel"@en .
+
+wd:Italy a wl:Country ;
+    rdfs:label "Italy"@en .
+
+wd:Ivory_Coast a wl:Country ;
+    rdfs:label "Ivory Coast"@en .
+
+wd:Japan a wl:Country ;
+    rdfs:label "Japan"@en .
+
+wd:Jordan a wl:Country ;
+    rdfs:label "Jordan"@en .
+
+wd:Kazakhstan a wl:Country ;
+    rdfs:label "Kazakhstan"@en .
+
+wd:Kenya a wl:Country ;
+    rdfs:label "Kenya"@en .
+
+wd:King_s_Representative a wl:Position ;
+    rdfs:label "King's Representative"@en .
+
+wd:Kiribati a wl:Country ;
+    rdfs:label "Kiribati"@en .
+
+wd:Kosovo a wl:Country ;
+    rdfs:label "Kosovo"@en .
+
+wd:Kuwait a wl:Country ;
+    rdfs:label "Kuwait"@en .
+
+wd:Kyrgyzstan a wl:Country ;
+    rdfs:label "Kyrgyzstan"@en .
+
+wd:Lao_People_s_Revolutionary_Party a wl:Country ;
+    rdfs:label "Lao People's Revolutionary Party"@en .
+
+wd:Latvia a wl:Country ;
+    rdfs:label "Latvia"@en .
+
+wd:Lebanon a wl:Country ;
+    rdfs:label "Lebanon"@en .
+
+wd:Lesotho a wl:Country ;
+    rdfs:label "Lesotho"@en .
+
+wd:Liberia a wl:Country ;
+    rdfs:label "Liberia"@en .
+
+wd:Lithuania a wl:Country ;
+    rdfs:label "Lithuania"@en .
+
+wd:Luxembourg a wl:Country ;
+    rdfs:label "Luxembourg"@en .
+
+wd:Malawi a wl:Country ;
+    rdfs:label "Malawi"@en .
+
+wd:Malaysia a wl:Country ;
+    rdfs:label "Malaysia"@en .
+
+wd:Maldives a wl:Country ;
+    rdfs:label "Maldives"@en .
+
+wd:Mali a wl:Country ;
+    rdfs:label "Mali"@en .
+
+wd:Malta a wl:Country ;
+    rdfs:label "Malta"@en .
+
+wd:Marshall_Islands a wl:Country ;
+    rdfs:label "Marshall Islands"@en .
+
+wd:Mauritania a wl:Country ;
+    rdfs:label "Mauritania"@en .
+
+wd:Mauritius a wl:Country ;
+    rdfs:label "Mauritius"@en .
+
+wd:Mexico a wl:Country ;
+    rdfs:label "Mexico"@en .
+
+wd:Monaco a wl:Country ;
+    rdfs:label "Monaco"@en .
+
+wd:Mongolia a wl:Country ;
+    rdfs:label "Mongolia"@en .
+
+wd:Montenegro a wl:Country ;
+    rdfs:label "Montenegro"@en .
+
+wd:Morocco a wl:Country ;
+    rdfs:label "Morocco"@en .
+
+wd:Mozambique a wl:Country ;
+    rdfs:label "Mozambique"@en .
+
+wd:Myanmar a wl:Country ;
+    rdfs:label "Myanmar"@en .
+
+wd:Namibia a wl:Country ;
+    rdfs:label "Namibia"@en .
+
+wd:Nauru a wl:Country ;
+    rdfs:label "Nauru"@en .
+
+wd:Nepal a wl:Country ;
+    rdfs:label "Nepal"@en .
+
+wd:Netherlands a wl:Country ;
+    rdfs:label "Netherlands"@en .
+
+wd:Nigeria a wl:Country ;
+    rdfs:label "Nigeria"@en .
+
+wd:Niue a wl:Country ;
+    rdfs:label "Niue"@en .
+
+wd:North_Macedonia a wl:Country ;
+    rdfs:label "North Macedonia"@en .
+
+wd:Northern_Cyprus a wl:Country ;
+    rdfs:label "Northern Cyprus"@en .
+
+wd:Norway a wl:Country ;
+    rdfs:label "Norway"@en .
+
+wd:Oman a wl:Country ;
+    rdfs:label "Oman"@en .
+
+wd:Pakistan a wl:Country ;
+    rdfs:label "Pakistan"@en .
+
+wd:Palau a wl:Country ;
+    rdfs:label "Palau"@en .
+
+wd:Palestine a wl:Country ;
+    rdfs:label "Palestine"@en .
+
+wd:Panama a wl:Country ;
+    rdfs:label "Panama"@en .
+
+wd:Paraguay a wl:Country ;
+    rdfs:label "Paraguay"@en .
+
+wd:Paramount_Leader a wl:Position ;
+    rdfs:label "Paramount Leader"@en .
+
+wd:Peru a wl:Country ;
+    rdfs:label "Peru"@en .
+
+wd:Philippines a wl:Country ;
+    rdfs:label "Philippines"@en .
+
+wd:Poland a wl:Country ;
+    rdfs:label "Poland"@en .
+
+wd:Pope a wl:Position ;
+    rdfs:label "Pope"@en .
+
+wd:Portugal a wl:Country ;
+    rdfs:label "Portugal"@en .
+
+wd:Presidency_for_the_Re_Foundation_of_the_Republic_of_Madagascar a wl:Country ;
+    rdfs:label "Presidency for the Re-Foundation of the Republic of Madagascar"@en .
+
+wd:Prince_Regnant a wl:Position ;
+    rdfs:label "Prince Regnant"@en .
+
+wd:Qatar a wl:Country ;
+    rdfs:label "Qatar"@en .
+
+wd:Regent a wl:Position ;
+    rdfs:label "Regent"@en .
+
+wd:Republic_of_China a wl:Country ;
+    rdfs:label "Republic of China"@en .
+
+wd:Republic_of_the_Congo a wl:Country ;
+    rdfs:label "Republic of the Congo"@en .
+
+wd:Romania a wl:Country ;
+    rdfs:label "Romania"@en .
+
+wd:Russia a wl:Country ;
+    rdfs:label "Russia"@en .
+
+wd:Rwanda a wl:Country ;
+    rdfs:label "Rwanda"@en .
+
+wd:Samoa a wl:Country ;
+    rdfs:label "Samoa"@en .
+
+wd:Secretary_for_Foreign_and_Political_Affairs a wl:Position ;
+    rdfs:label "Secretary for Foreign and Political Affairs"@en .
+
+wd:Senegal a wl:Country ;
+    rdfs:label "Senegal"@en .
+
+wd:Seychelles a wl:Country ;
+    rdfs:label "Seychelles"@en .
+
+wd:Sierra_Leone a wl:Country ;
+    rdfs:label "Sierra Leone"@en .
+
+wd:Singapore a wl:Country ;
+    rdfs:label "Singapore"@en .
+
+wd:Slovakia a wl:Country ;
+    rdfs:label "Slovakia"@en .
+
+wd:Slovenia a wl:Country ;
+    rdfs:label "Slovenia"@en .
+
+wd:Somaliland a wl:Country ;
+    rdfs:label "Somaliland"@en .
+
+wd:South_Africa a wl:Country ;
+    rdfs:label "South Africa"@en .
+
+wd:South_Korea a wl:Country ;
+    rdfs:label "South Korea"@en .
+
+wd:South_Ossetia a wl:Country ;
+    rdfs:label "South Ossetia"@en .
+
+wd:South_Sudan a wl:Country ;
+    rdfs:label "South Sudan"@en .
+
+wd:Sovereign_Prince a wl:Position ;
+    rdfs:label "Sovereign Prince"@en .
+
+wd:Spain a wl:Country ;
+    rdfs:label "Spain"@en .
+
+wd:Sri_Lanka a wl:Country ;
+    rdfs:label "Sri Lanka"@en .
+
+wd:State_for_Foreign_and_Political_Affairs a wl:Country ;
+    rdfs:label "State for Foreign and Political Affairs"@en .
+
+wd:Sultan_and_Prime_Minister a wl:Position ;
+    rdfs:label "Sultan and Prime Minister"@en .
+
+wd:Suriname a wl:Country ;
+    rdfs:label "Suriname"@en .
+
+wd:Sweden a wl:Country ;
+    rdfs:label "Sweden"@en .
+
+wd:Syria a wl:Country ;
+    rdfs:label "Syria"@en .
+
+wd:São_Tomé_and_Príncipe a wl:Country ;
+    rdfs:label "São Tomé and Príncipe"@en .
+
+wd:Tajikistan a wl:Country ;
+    rdfs:label "Tajikistan"@en .
+
+wd:Tanzania a wl:Country ;
+    rdfs:label "Tanzania"@en .
+
+wd:Thailand a wl:Country ;
+    rdfs:label "Thailand"@en .
+
+wd:Timor_Leste a wl:Country ;
+    rdfs:label "Timor-Leste"@en .
+
+wd:Togo a wl:Country ;
+    rdfs:label "Togo"@en .
+
+wd:Tonga a wl:Country ;
+    rdfs:label "Tonga"@en .
+
+wd:Transnistria a wl:Country ;
+    rdfs:label "Transnistria"@en .
+
+wd:Trinidad_and_Tobago a wl:Country ;
+    rdfs:label "Trinidad and Tobago"@en .
+
+wd:Tunisia a wl:Country ;
+    rdfs:label "Tunisia"@en .
+
+wd:Turkey a wl:Country ;
+    rdfs:label "Turkey"@en .
+
+wd:Turkmenistan a wl:Country ;
+    rdfs:label "Turkmenistan"@en .
+
+wd:Uganda a wl:Country ;
+    rdfs:label "Uganda"@en .
+
+wd:Ukraine a wl:Country ;
+    rdfs:label "Ukraine"@en .
+
+wd:United_Arab_Emirates a wl:Country ;
+    rdfs:label "United Arab Emirates"@en .
+
+wd:United_Kingdom a wl:Country ;
+    rdfs:label "United Kingdom"@en .
+
+wd:United_States a wl:Country ;
+    rdfs:label "United States"@en .
+
+wd:Uruguay a wl:Country ;
+    rdfs:label "Uruguay"@en .
+
+wd:Uzbekistan a wl:Country ;
+    rdfs:label "Uzbekistan"@en .
+
+wd:Vanuatu a wl:Country ;
+    rdfs:label "Vanuatu"@en .
+
+wd:Zambia a wl:Country ;
+    rdfs:label "Zambia"@en .
+
+wd:Zimbabwe a wl:Country ;
+    rdfs:label "Zimbabwe"@en .
+
+wd:sovereigns_of_Vatican_City_State a wl:Country ;
+    rdfs:label "sovereigns of Vatican City State"@en .
+
+wd:Antigua_and_Barbuda a wl:Country ;
+    rdfs:label "Antigua and Barbuda"@en .
+
+wd:Australia a wl:Country ;
+    rdfs:label "Australia"@en .
+
+wd:Bahamas a wl:Country ;
+    rdfs:label "Bahamas"@en .
+
+wd:Belize a wl:Country ;
+    rdfs:label "Belize"@en .
+
+wd:Canada a wl:Country ;
+    rdfs:label "Canada"@en .
+
+wd:Chairman a wl:Position ;
+    rdfs:label "Chairman"@en .
+
+wd:Chancellor a wl:Position ;
+    rdfs:label "Chancellor"@en .
+
+wd:Co_Presidents a wl:Position ;
+    rdfs:label "Co-Presidents"@en .
+
+wd:Emir a wl:Position ;
+    rdfs:label "Emir"@en .
+
+wd:France a wl:Country ;
+    rdfs:label "France"@en .
+
+wd:Grenada a wl:Country ;
+    rdfs:label "Grenada"@en .
+
+wd:Jamaica a wl:Country ;
+    rdfs:label "Jamaica"@en .
+
+wd:Libya a wl:Country ;
+    rdfs:label "Libya"@en .
+
+wd:Liechtenstein a wl:Country ;
+    rdfs:label "Liechtenstein"@en .
+
+wd:Moldova a wl:Country ;
+    rdfs:label "Moldova"@en .
+
+wd:New_Zealand a wl:Country ;
+    rdfs:label "New Zealand"@en .
+
+wd:Nicaragua a wl:Country ;
+    rdfs:label "Nicaragua"@en .
+
+wd:Papua_New_Guinea a wl:Country ;
+    rdfs:label "Papua New Guinea"@en .
+
+wd:Saint_Kitts_and_Nevis a wl:Country ;
+    rdfs:label "Saint Kitts and Nevis"@en .
+
+wd:Saint_Lucia a wl:Country ;
+    rdfs:label "Saint Lucia"@en .
+
+wd:Saint_Vincent_and_the_Grenadines a wl:Country ;
+    rdfs:label "Saint Vincent and the Grenadines"@en .
+
+wd:Saudi_Arabia a wl:Country ;
+    rdfs:label "Saudi Arabia"@en .
+
+wd:Serbia a wl:Country ;
+    rdfs:label "Serbia"@en .
+
+wd:Solomon_Islands a wl:Country ;
+    rdfs:label "Solomon Islands"@en .
+
+wd:Somalia a wl:Country ;
+    rdfs:label "Somalia"@en .
+
+wd:Supreme_Leader a wl:Position ;
+    rdfs:label "Supreme Leader"@en .
+
+wd:Tuvalu a wl:Country ;
+    rdfs:label "Tuvalu"@en .
+
+wd:Yemen a wl:Country ;
+    rdfs:label "Yemen"@en .
+
+wd:King a wl:Position ;
+    rdfs:label "King"@en .
+
+wd:Governor_General a wl:Position ;
+    rdfs:label "Governor General"@en,
+        "Governor-General"@en .
+
+wl:Position a owl:Class .
+
+wd:Prime_Minister a wl:Position ;
+    rdfs:label "Prime Minister"@en .
+
+wd:President a wl:Position ;
+    rdfs:label "President"@en .
+
+wl:Country a owl:Class .
+
+wl:Person a owl:Class .
+
