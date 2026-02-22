@@ -6,11 +6,12 @@
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
+- [Project Overview](#project-summary)
+- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 ## Introduction
 
-This project is part of an assignment of the course Big Data II of the University of Amsterdam.
 It aims to examine the gender representation among current state leaders. It does this through construction of a [Resource Description Framework (RDF)](https://en.wikipedia.org/wiki/Resource_Description_Framework), which allows for visualisations such as the distribution of characteristics.
 
 The RDF can be found in the [data](data/) folder. The results and insights in this project showcases the inequality of specific cultural dominances. Additionally, this project can be used as a baseline for further knowledge graph construction and Wikipedia information scraping.
@@ -78,6 +79,14 @@ In VS Code’s take the following steps:
 - [output:](output/) Contains image files of results and UML.
 - [environment.yml](/environment.yml) File specifying installation of Python environment through Conda.
 - [uv.lock](/uv.lock) File specifying installation of Python environment through uv.
+
+## Project Summary
+
+It was found that there was a much larger number of male world leaders than female world leaders as can be seen in ![img](/output/gender_distribution.png). Within those Wikipedia pages, more differences are visible: male world leaders have longer Wikipedia pages than females, and have a lower representation in different languages as well. As a possible natural consequence of their shorter pages, female world leaders have a lower number of references within their pages. [img](/output/visibility_distribution_by_gender.png). 
+
+## Acknowledgements
+
+This project was written by Elean Huang, Yajing Hazel Wang and Yiran Lilly Zi, and is part of the Knowledge Extraction group project of the course [Big Data and Automated Content Analysis II]https://coursecatalogue.uva.nl/xmlpages/page/2025-2026-en/search-course/course/132481) of the University of Amsterdam.
 
 ## Contact
 
