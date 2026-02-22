@@ -82,7 +82,13 @@ In VS Code’s take the following steps:
 
 ## Project Summary
 
-It was found that there was a much larger number of male world leaders than female world leaders as can be seen in ![img](/output/gender_distribution.png). Within those Wikipedia pages, more differences are visible: male world leaders have longer Wikipedia pages than females, and have a lower representation in different languages as well. As a possible natural consequence of their shorter pages, female world leaders have a lower number of references within their pages. [img](/output/visibility_distribution_by_gender.png). 
+It was found that there was a much larger number of male world leaders than female world leaders as can be seen in image 1.
+
+![img](/output/gender_distribution.png). 
+
+Within those Wikipedia pages, more differences are visible: male world leaders have longer Wikipedia pages than females, and have a lower representation in different languages as well. As a possible natural consequence of their shorter pages, female world leaders have a lower number of references within their pages, see image 2. 
+
+![img](/output/visibility_distribution_by_gender.png). 
 
 ## Acknowledgements
 
