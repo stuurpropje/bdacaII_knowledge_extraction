@@ -76,7 +76,7 @@ In VS Code’s take the following steps:
 
 - [notebooks:](notebooks/) Contains all Jupyter notebooks used to create the RDF.
 - [data:](data/) Contains the raw data in csv files and a relational file in a RDF Turtle file.
-- [output:](output/) Contains image files of results and UML.
+- [output:](output/) Contains image files of results and a HTML file of knowledge graph.
 - [environment.yml](/environment.yml) File specifying installation of Python environment through Conda.
 - [uv.lock](/uv.lock) File specifying installation of Python environment through uv.
 
